@@ -13,9 +13,9 @@ console.log(`Amount of money in a customer's bank account: ${balance}`);
 //5. Person's email address: "john.doe@example.com"
 let email: string = "john.doe@example.com"
 console.log(`Person's email address: "${email}"`)
-//6. Coordinates of a location (Shekhar, longitude): 37.7749, -122.4194
+//6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
 let coordinates: number[] =[37.7749, -122.4194];
-console.log(`Coordinates of a location (Shekhar, longitude): ${coordinates}`);
+console.log(`Coordinates of a location (latitude, longitude): ${coordinates}`);
 //7. Person's marital status: true or false
 let mStatus: boolean = true;
 console.log(`Person's marital status: ${mStatus}`);
