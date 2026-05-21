@@ -12,7 +12,7 @@ let balance: number = 1000.50;
 console.log(`Amount of money in a customer's bank account: ${balance}`);
 //5. Person's email address: "john.doe@example.com"
 let email: string = "john.doe@example.com"
-console.log(`Person's email address: "${email}"`)
+console.log(`My Person's email address: "${email}"`)
 //6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
 let coordinates: number[] =[37.7749, -122.4194];
 console.log(`Coordinates of a location (latitude, longitude): ${coordinates}`);
