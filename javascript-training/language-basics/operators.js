@@ -30,7 +30,7 @@
 
 
 
-let age = 17.01;
+let age = 16.01;
 
 let result = (age > 17) ? "You are eligible to Vote " : "You are not not eligile to vote";
 
