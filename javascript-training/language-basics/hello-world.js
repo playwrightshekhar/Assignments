@@ -5,6 +5,14 @@ console.info("Information");
 
 console.log("hello-world- Change request");
 
+console.log("Shekhar");
+
+console.log("Krishna Kavya");
+
+console.log("Ishita Saanvi");
+
+
+
 /* Syntax to store in JavaScript
 Declaration Variable = Data;
 
